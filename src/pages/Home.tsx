@@ -4,17 +4,17 @@ const backendUrl = import.meta.env.VITE_REACT_APP_BACKEND_URL;
 
 const providersNames = [
   'keycloak',
-  'discord',
-  'facebook',
-  'github',
-  'google',
-  'instagram',
-  'linkedin',
-  'reddit',
-  'twitch',
-  'twitter',
-  'vk',
-  'auth0',
+  // 'discord',
+  // 'facebook',
+  // 'github',
+  // 'google',
+  // 'instagram',
+  // 'linkedin',
+  // 'reddit',
+  // 'twitch',
+  // 'twitter',
+  // 'vk',
+  // 'auth0',
 ];
 
 type LoginButtonProps = {
